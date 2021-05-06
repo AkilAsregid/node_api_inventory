@@ -1,5 +1,5 @@
 {
-  "name": "nodeauthapi",
+  "name": "node_jwt_invetory",
   "version": "1.0.0",
   "description": "JWT example",
   "main": "app.js",
