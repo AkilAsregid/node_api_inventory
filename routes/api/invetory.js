@@ -1,5 +1,1 @@
-const express = require('express')
-const router = express.Router();
-
-
-module.exports = router;
+//this will be protected routes
